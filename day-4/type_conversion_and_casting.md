@@ -1,5 +1,3 @@
----
-
 # ✅ **Type Conversion & Casting in Java**
 
 Java supports two types of conversions:
